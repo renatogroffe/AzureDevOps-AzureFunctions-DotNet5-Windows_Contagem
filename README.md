@@ -1,0 +1,1 @@
+# AzureDevOps-AzureFunctions-DotNet5-Windows_Contagem
