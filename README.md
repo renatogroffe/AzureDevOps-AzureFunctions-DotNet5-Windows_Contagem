@@ -3,4 +3,4 @@ Pipeline do Azure DevOps para automação de build e deployment de uma Function 
 
 Projeto que serviu de base para a implementação deste Pipeline:
 
-https://github.com/renatogroffe/DotNet5-AzureFunctions-HttpTrigger_ContagemAcessos
+https://github.com/renatogroffe/DotNet5-AzureFunctions-HttpTrigger_ContagemAcessos-v2
